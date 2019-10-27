@@ -1,1 +1,31 @@
-# Image-compression-and-reconstruction-by-PCA
+# Image Compression and Reconstruction by PCA
+
+Foobar is a Python library for dealing with word pluralization.
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
+
+```bash
+pip install opencv-python
+pip install numpy
+```
+
+## Usage
+
+```python
+python3 recons.py
+```
+
+## Visuals
+<p><b>Original Image</b></p>
+<p align="center">
+<img src="" width=512 align="middle">
+</p>
+<p><b>Result with varying principal components</b></p>
+<p align="center">
+<img src="" width=512>
+</p>
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
