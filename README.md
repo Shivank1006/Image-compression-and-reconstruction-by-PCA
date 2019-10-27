@@ -23,7 +23,7 @@ python3 recons.py
 </p>
 <p><b>Result with varying principal components</b></p>
 <p align="center">
-<img src="" width=512>
+<img src="https://github.com/Shivank1006/Image-compression-and-reconstruction-by-PCA/blob/master/media/reconstruction.gif?raw=true" width=512>
 </p>
 
 ## License
