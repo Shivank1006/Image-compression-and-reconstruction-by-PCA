@@ -1,5 +1,6 @@
 # Image Compression and Reconstruction by PCA
 
+The python script shows the image reconstructed using 200 principal components (out of 512).
 
 ## Installation
 
